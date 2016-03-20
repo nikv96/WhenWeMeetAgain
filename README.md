@@ -5,6 +5,8 @@ WhenWeMeetAgain is a simple modified reminder application that uses proximity of
 
 WhenWeMeetAgain allows one to set a reminder on an android phone with the bluetooth address of another phone and the content of the reminder. The next time these two phones come within the bluetooth range of one another, the application will send a notification to the user. 
 
+The app won the Best Fresher's Award at the hackathon. Visit [Devpost](http://devpost.com/software/when-we-meet-again).
+
 ## Running the Application:
 
 1. Allow Installation from Unknown Sources on your Android Phone.
